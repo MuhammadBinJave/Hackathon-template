@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
-import { Weight } from "lucide-react";
 
 
 const geistSans = localFont({

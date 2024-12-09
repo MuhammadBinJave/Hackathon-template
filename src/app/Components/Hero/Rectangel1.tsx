@@ -1,5 +1,4 @@
 import React from 'react'
-import Image from 'next/image'
 const Rectangel1 = () => {
   return (
 <div className="flex items-center justify-center h-screen bg-yellow-100 w-[1349px] h-100px">
